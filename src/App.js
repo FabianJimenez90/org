@@ -12,18 +12,18 @@ function App() {
   const [mostrarFormulario, actualizarMostrar] = useState(false)
   const [colaboradores, actualizarColaboradores] = useState([{
       id: uuid(),
-      equipo: "Front End",
-      foto: "https://github.com/harlandlohora.png",
-      nombre: "harlandlohora",
-      puesto: "Instructor",
+      equipo: "",
+      foto: "",
+      nombre: "",
+      puesto: "",
       fav: true
     },
     {
       id: uuid(),
-      equipo: "Programacion",
-      foto: "https://github.com/genesysaluralatam.png",
-      nombre: "Genesys aluralatam",
-      puesto: "Instructor",
+      equipo: "",
+      foto: "",
+      nombre: " ",
+      puesto: "",
       fav: true
     },
     {
