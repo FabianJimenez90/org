@@ -28,10 +28,10 @@ function App() {
     },
     {
       id: uuid(),
-      equipo: "Front End",
-      foto: "https://github.com/JeanmarieAluraLatam.png",
-      nombre: "Jeanmarie AluraLatam",
-      puesto: "Instructor",
+      equipo: " ",
+      foto: "",
+      nombre: " ",
+      puesto: "",
       fav: false
     },
     {
